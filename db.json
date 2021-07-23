@@ -1,0 +1,26 @@
+{
+    "body":
+    {
+        "savedCards":
+        [
+            {
+                "nameOnCard": "tst",
+                "number": "123456789",
+                "expiryMonth": "03",
+                "expiryYear": "2022",
+                "cardBrand": "RUPAY",
+                "cardMode": "CC",
+                "cardType": "RUPAYCC",
+                "storeCard": true,
+                "cardToken": "123456789",
+                "expired": false
+            }
+        ],
+        "key": "uQXimM",
+        "userTokens":
+        {
+            "get_user_cards": "test",
+            "save_user_card": "test"
+        }
+    }
+}
